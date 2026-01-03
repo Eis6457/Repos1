@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "github demo class 
+git remote add origin,https://github.com/Eis6457/Repos1.git
+git push -u origin master 
